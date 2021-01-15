@@ -37,3 +37,13 @@ Listas desordenadas são criadas com o hífen, asteriscos ou o sinal de mais (-,
 
 + Primeiro
 + Segundo
+
+CodeBlocks são feitos com 1 Tab. Para identação do código usar 2 ou mais Tabs
+Ex.
+
+    <html>
+        <head>
+            <title>Utilizando CodeBlocks</title>
+        </head>
+    </html>
+    
