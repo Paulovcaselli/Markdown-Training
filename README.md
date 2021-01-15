@@ -1,2 +1,6 @@
 # Markdown-Training
-Treinando Markdown 
+Treinando Markdown
+
+> Testando Blockquotes
+>
+> Interessante para separação (?)
