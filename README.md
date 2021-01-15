@@ -47,3 +47,6 @@ Ex.
         </head>
     </html>
     
+Adicionando imagens com Markdown
+
+![Tux, the Linux mascot](/assets/images/tux.png)
