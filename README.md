@@ -43,10 +43,10 @@ Ex.
 
     <html>
         <head>
-            <title>Utilizando CodeBlocks</title>
+            <title>Utilizando Code Blocks</title>
         </head>
     </html>
     
 Adicionando imagens com Markdown
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+![Liferay Logo](https://www.eapps.com/images/liferay-logo-large.png)
