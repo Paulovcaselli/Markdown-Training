@@ -49,4 +49,5 @@ Ex.
     
 Adicionando imagens com Markdown
 
-![Liferay Logo](https://www.eapps.com/images/liferay-logo-large.png)
+Link para o site da  
+[Site Liferay](https://www.liferay.com/pt/home)![Liferay Logo](https://www.eapps.com/images/liferay-logo-large.png)
