@@ -50,4 +50,4 @@ Ex.
 Adicionando imagens com Markdown
 
 Link para o site da  
-[Site Liferay](https://www.liferay.com/pt/home)![Liferay Logo](https://www.eapps.com/images/liferay-logo-large.png)
+[![Liferay Logo](https://www.eapps.com/images/liferay-logo-large.png "Liferay Logo")](https://www.liferay.com/pt/home)
