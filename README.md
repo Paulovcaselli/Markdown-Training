@@ -1,9 +1,9 @@
 # Markdown-Training
 Treinando Markdown
 
-*Textos em itálico ficam com apenas 1 asterisco*
-**Textos em Negrito ficam com 2**
-***Textos em itálico/Negrito ficam com 3 asteriscos***
+*Textos em itálico ficam com apenas 1 asterisco*  
+**Textos em Negrito ficam com 2**  
+***Textos em itálico/Negrito ficam com 3 asteriscos***  
 
 > Testando Blockquotes
 >
@@ -18,14 +18,14 @@ Treinando Markdown
 >
 > E assim segue.
 
-Listas ordenadas em Markdown se iniciam com o número 1, seguido do *.*. Os números não precisam estar em ordem numérica.
+Listas ordenadas em Markdown se iniciam com o número 1, seguido do ponto. Os números não precisam estar em ordem numérica.
 
 1. Primeiro
 2. Segundo
 4. Terceiro
 3. Quarto
-  1. Item identado
-  3. Item identado
+    1. Item identado
+    3. Item identado
   
 Listas desordenadas são criadas com o hífen, asteriscos ou o sinal de mais (-, *, +).
 
